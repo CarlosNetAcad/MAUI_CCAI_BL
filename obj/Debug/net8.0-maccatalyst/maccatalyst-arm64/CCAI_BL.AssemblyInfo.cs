@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCAI_BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+374872c718838ec15b76783e5bd9a2e9bd38e2d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCAI_BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCAI_BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
