@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/CCAI_BL.app/libmonosgen-2.0.dylib
