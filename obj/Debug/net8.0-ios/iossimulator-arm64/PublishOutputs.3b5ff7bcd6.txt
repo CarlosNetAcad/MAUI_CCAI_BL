@@ -50,10 +50,6 @@
 /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.Maui.Essentials.dll
 /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.Maui.Graphics.dll
 /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/System.Diagnostics.DiagnosticSource.dll
-/Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.Maui.Controls.HotReload.Forms.dll
-/Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-/Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.VisualStudio.DesignTools.TapContract.dll
-/Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/CCAI_BL.dll
 /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.CSharp.dll
 /Users/usuario/Projects/CSharp/Maui/Maui_CCAI_BL/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../CCAI_BL.app/Microsoft.VisualBasic.Core.dll

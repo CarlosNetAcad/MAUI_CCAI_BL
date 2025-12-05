@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CobrowseIO",
+        "repositoryURL": "https://github.com/cobrowseio/cobrowse-sdk-ios-binary",
+        "state": {
+          "branch": null,
+          "revision": "47b797f760d61eb5df448b1da91b949ed5f9a18e",
+          "version": "2.29.6"
+        }
+      },
+      {
+        "package": "TwilioConversationsClient",
+        "repositoryURL": "https://github.com/twilio/conversations-ios",
+        "state": {
+          "branch": null,
+          "revision": "57e74483504a1b86355f58c870b5e77974f30e5b",
+          "version": "4.0.5"
+        }
+      },
+      {
+        "package": "TwilioVoice",
+        "repositoryURL": "https://github.com/twilio/twilio-voice-ios",
+        "state": {
+          "branch": null,
+          "revision": "b6e9955ab023a40ebd4c16eab3e4c90bb0c962c3",
+          "version": "6.10.4"
+        }
+      },
+      {
+        "package": "TwilioTwilsockLib",
+        "repositoryURL": "https://github.com/twilio/twilsock-ios",
+        "state": {
+          "branch": null,
+          "revision": "def8471f0e3328c94b3ecce6163d950d40110db5",
+          "version": "3.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

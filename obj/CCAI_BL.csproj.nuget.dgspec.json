@@ -90,22 +90,6 @@
             {
               "name": "Microsoft.Android.Ref.34",
               "version": "[34.0.154, 34.0.154]"
-            },
-            {
-              "name": "Microsoft.Android.Runtime.34.android-arm",
-              "version": "[34.0.154, 34.0.154]"
-            },
-            {
-              "name": "Microsoft.Android.Runtime.34.android-arm64",
-              "version": "[34.0.154, 34.0.154]"
-            },
-            {
-              "name": "Microsoft.Android.Runtime.34.android-x64",
-              "version": "[34.0.154, 34.0.154]"
-            },
-            {
-              "name": "Microsoft.Android.Runtime.34.android-x86",
-              "version": "[34.0.154, 34.0.154]"
             }
           ],
           "frameworkReferences": {
@@ -209,10 +193,6 @@
             {
               "name": "Microsoft.MacCatalyst.Ref.net8.0_18.0",
               "version": "[18.0.8324, 18.0.8324]"
-            },
-            {
-              "name": "Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net8.0_18.0",
-              "version": "[18.0.8324, 18.0.8324]"
             }
           ],
           "frameworkReferences": {
@@ -227,22 +207,7 @@
         }
       },
       "runtimes": {
-        "android-arm": {
-          "#import": []
-        },
-        "android-arm64": {
-          "#import": []
-        },
-        "android-x64": {
-          "#import": []
-        },
-        "android-x86": {
-          "#import": []
-        },
         "iossimulator-arm64": {
-          "#import": []
-        },
-        "maccatalyst-arm64": {
           "#import": []
         }
       }
